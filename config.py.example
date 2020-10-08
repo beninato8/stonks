@@ -1,0 +1,12 @@
+# Twitter API
+
+API_KEY = 'your_key_here' 
+API_KEY_SECRET = 'your_key_here'
+ACCESS_TOKEN = 'your_key_here'
+ACCESS_TOKEN_SECRET = 'your_key_here'
+BEARER_TOKEN = 'your_key_here'
+
+# Alpaca API
+
+ALPACA_KEY = 'your_key_here'
+ALPACA_SECRET = 'your_key_here'
